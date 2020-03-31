@@ -1,0 +1,1 @@
+Build a browser version of something between a sketchpad and an Etch-A-Sketch as part of the Odin Projects curriculum (https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project?ref=lnav).
